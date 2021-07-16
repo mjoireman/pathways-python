@@ -1,0 +1,10 @@
+
+Samples
+These samples demonstrate various features of the ArcGIS API for Python. The samples are categorized by the user profile they are most relevant to. Most samples are in the form of a Jupyter Notebooks, that can be viewed online, or downloaded and run interactively. Other samples are provided as stand-alone Python scripts in the GitHub SDK repository.
+
+Download and run the sample notebooks
+To run the sample notebooks locally, you need the ArcGIS API for Python installed on your computer. See the Getting Started section in the Guide to learn how to download and run the API.
+
+Once the API is installed, you can download the samples either as an archive or clone the arcgis-python-api GitHub repository.
+
+Next, extract the archive if you downloaded as an archive then open your terminal application and enter the directory with the samples. Then start Jupyter notebook application. Refer to Using the Jupyter Notebook environment tutorial in the Guide for instructions on how to do this and to get yourself familiar with the notebook environment.

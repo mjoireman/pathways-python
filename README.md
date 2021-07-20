@@ -1,5 +1,25 @@
-# pathways-python
+### Pathways Python Library
 
-ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS. It provides simple and efficient tools for deep learning, sophisticated vector and raster analysis, geocoding, map making, routing and directions, as well as for organizing and managing a GIS with users, groups and information items. In addition to working with your own data, the library enables access to ready to use maps and curated geographic data from Esri and other authoritative sources. It also integrates well with the scientific Python ecosystem and includes rich support for Pandas, Scikit-Learn, Fast.ai, etc. and Jupyter notebook.
+Python Package for integrating pathways platform dataset into data science workflow
 
-To learn more about the API, visit the product page here. You can get in touch with the developers of the API and other users like you at the community page here.
+#### Features
+- Authenticate using existing pathways credentials
+- List the datasets in pathways
+- Read pathways datasets into geopandas dataframes
+- integrate seamlessly with open source datascience toolchain
+- Jupyter widgets to improve data scientist experience 
+    - view the list of datasets
+    - inspect the metadata
+- Python typings to improve python development experience
+- package distributed via pip package manager
+- works well with jupyter notebooks and jupyter lab
+
+
+### Use cases
+- ideal for data preperation since it always gets the latest dataset from pathways
+- used to create ETL jobs to move the prepared datasets to other systems
+- data scientist can perfrom exploratory analysis to better understand the data
+
+
+### Examples
+- [Bikeped](/samples/gis_analysts_data_scientists/use_cases/01_bike_ped/bike_ped.ipynb)

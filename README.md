@@ -22,4 +22,4 @@ Python Package for integrating pathways platform dataset into data science workf
 
 
 ### Examples
-- [Bikeped](/blob/main/samples/gis_analysts_data_scientists/use_cases/01_bike_ped/bike_ped.ipynb)
+- [Bikeped](/samples/gis_analysts_data_scientists/use_cases/01_bike_ped/bike_ped.ipynb)
